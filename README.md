@@ -12,7 +12,8 @@ This is a Google Sheets-based Crypto Portfolio Tracker designed to help users ma
 3. Start tracking your portfolio!
 
 ## Live Demo
-https://script.google.com/macros/s/AKfycbyhDqaNkDSU2NeUN6JuuyRj5eB2fzaGkjiqP68oTT7q7QbZrat7PYfp-q36KmEN_ENk/exec
+Code: https://script.google.com/macros/s/AKfycbyhDqaNkDSU2NeUN6JuuyRj5eB2fzaGkjiqP68oTT7q7QbZrat7PYfp-q36KmEN_ENk/exec
+Spreadsheet: https://script.google.com/macros/s/AKfycbw6-2ke_90S4LxAygJSTl8xkI7C8E6eRAPdv2tUh-oVLXCESM9f_owFvazeJ-L_qPJX/exec
 
 ## Contributing
 Feel free to submit issues or pull requests to improve this project
